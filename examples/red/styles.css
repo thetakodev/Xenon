@@ -5,7 +5,9 @@ colors {
     --darkGray:    #3e3e4f;
     --darkerGray:  #373542;
     --black:       #111111;
-    --lightblue:   #80d8ff;
+    --lightblue:   #03A9F4;
+    --blue:        #2196F3;
+    --textblack:   #212121;
 
     --darkRed:     #8e3333;
     --red:         #c0392b;
@@ -29,12 +31,12 @@ header {
     /* background-position: center; */
     /* Content and Background (Images) are mutually exclusive, with content taking precedence if both are present */
 
-    background-color: red;
+    background-color: blue;
 
     width: 100%;
     padding: 1px;
 
-    color: reallywhite;
+    color: textblack;
     text-align: center;
     text-transform: uppercase;
 
