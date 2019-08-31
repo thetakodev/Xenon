@@ -1,5 +1,5 @@
 colors {
-    --realywhite: #eeeeee;
+    --reallywhite:#eeeeee;
     --white:      #c8d6e5;
     --lightGray:  #8395a7;
     --darkGray:   #3e3e4f;
@@ -33,7 +33,7 @@ header {
     width: 100%;
     padding: 1px;
 
-    color: white;
+    color: reallywhite;
     text-align: center;
     text-transform: uppercase;
 
