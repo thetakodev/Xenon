@@ -1,13 +1,13 @@
 colors {
-    --reallywhite: #eeeeee;
-    --white:       #c8d6e5;
+    --white:       #ffffff;
     --lightGray:   #8395a7;
     --darkGray:    #3e3e4f;
     --darkerGray:  #373542;
-    --black:       #111111;
+    --black:       #000000;
     --lightblue:   #03A9F4;
     --blue:        #2196F3;
-    --textblack:   #212121;
+    --pritext:     #212121;
+    --sectext:     #757575;
 
     --darkRed:     #8e3333;
     --red:         #c0392b;
@@ -36,7 +36,7 @@ header {
     width: 100%;
     padding: 1px;
 
-    color: textblack;
+    color: white;
     text-align: center;
     text-transform: uppercase;
 
@@ -57,7 +57,7 @@ aside {
     padding: 1px;
     
     background-color: transparent;
-    color: redWhite;
+    color: white;
 }
 
 table {
@@ -110,7 +110,7 @@ td {
 
 thead tr {
     margin-bottom: 1px;
-    background-color: lightblue;
+    background-color: blue;
 }
 
 tbody tr {
@@ -123,7 +123,7 @@ tr:nth-child(2n) {
 }
 
 th {
-    color: textblack;
+    color: sectext;
     padding: 1px 1px 1px 0;
 }
 
