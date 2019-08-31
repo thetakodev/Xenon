@@ -1,15 +1,16 @@
 colors {
-    --reallywhite:#eeeeee;
-    --white:      #c8d6e5;
-    --lightGray:  #8395a7;
-    --darkGray:   #3e3e4f;
-    --darkerGray: #373542;
-    --black:      #111111;
+    --reallywhite: #eeeeee;
+    --white:       #c8d6e5;
+    --lightGray:   #8395a7;
+    --darkGray:    #3e3e4f;
+    --darkerGray:  #373542;
+    --black:       #111111;
+    --lightblue    #80d8ff;
 
-    --darkRed:    #8e3333;
-    --red:        #c0392b;
-    --redWhite:   #bb7777;
-    --yellow:     #dede6c;
+    --darkRed:     #8e3333;
+    --red:         #c0392b;
+    --redWhite:    #bb7777;
+    --yellow:      #dede6c;
 }
 
 * {
