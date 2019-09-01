@@ -99,6 +99,7 @@ td {
 }
 
 .price-container, .price {
+    text-align: left;
     width: 15px;
 }
 
