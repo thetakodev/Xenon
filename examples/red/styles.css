@@ -1,5 +1,5 @@
 colors {
-    --white:       #ffffff;    /*white*/
+    --white:       #ffffff; /*white*/
     --lightGray:   #9E9E9E; /*gray500*/
     --darkGray:    #424242; /*gray800*/
     --darkerGray:  #212121; /*gray900*/
@@ -11,7 +11,7 @@ colors {
  
     --darkRed:     #d32f2f; /*red700*/
     --red:         #f44336; /*red500*/
-    --redWhite:    #ff5252;  /*redA200*/
+    --redWhite:    #ff5252; /*redA200*/
     --yellow:      #FFEB3B; /*yellow500*/
 }
 
