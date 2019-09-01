@@ -15,8 +15,8 @@ return {
   styles = "styles.css",  -- The file from which xenon should load the stylesheet
 
   host  = "kkdqwu4uo4", -- * The Krist Address to listen to (*Required)
-  name  = "FinnDane",     -- * The Krist Name to use for purchases (*Required)
-  pkey  = privatekey,         -- * The private key to use for refunds (*Required)
+  name  = "finndane",     -- * The Krist Name to use for purchases (*Required)
+  pkey  = "privatekey",         -- * The private key to use for refunds (*Required)
   pkeyFormat = "kwallet", -- Either 'raw' or 'kwallet', defaults to 'raw'
   -- NOTE: It is not recommended to use kwallet, the best practice is to convert your pkey (using
   -- kwallet format) to raw pkey yourself first, and then use that here. Thus improving security.
